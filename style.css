@@ -1,0 +1,54 @@
+body{
+    font-family: 'Great Vibes', cursive;
+    margin: 0;
+}
+.namecolor{
+    color: brown;
+    font-size: 120px;
+    
+}
+.full-section1{
+   display: flex;
+   margin-bottom: 25px;
+   background-image: url(images/top-banner.png);
+background-repeat: no-repeat;
+   
+}
+.first-section-div{
+
+
+width: 50%;
+padding: 20px 40px;
+
+
+}
+#first-section-div2{
+padding-left: 200px;
+width: 50%;
+}
+
+#first-section-div3{
+padding-right: 150px;
+
+width: 33%;
+
+}
+a{
+background-image: linear-gradient(orange,rgb(203, 218, 231));
+padding: 10px 20px;
+border-radius: 5px;
+margin-top: 5px;
+}
+.full-section2{
+    display: flex;
+   margin-bottom: 25px;
+   background-image: url(images/dream-bg.png);
+background-repeat: no-repeat;
+background-position: right;
+}
+#dream-big-section{
+  font-weight: 700px;
+  padding-top: 70px;
+
+}
+
